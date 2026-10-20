@@ -23,7 +23,9 @@ export function InstallSection() {
         {/* Buttons */}
         <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
           <a
-            href="#"
+            href="https://github.com/JeevaVenkidu/mozhi-website"
+            target="_blank"
+            rel="noopener noreferrer"
             className="group relative inline-flex items-center gap-3.5 px-7 py-4 rounded-full bg-[#141413] text-white text-base font-medium hover:bg-[#2A2926] active:scale-[0.98] transition-all duration-300 shadow-[0_4px_16px_rgba(0,0,0,0.1)]"
           >
             <span>Add to Chrome — Free</span>
